@@ -11,10 +11,6 @@ module.exports = {
         secondary: '#ff8c42',
         accent: '#e6b800',
       },
-      fontFamily: {
-        sans: ['Inter', 'sans-serif'],
-        serif: ['Merriweather', 'serif'],
-      },
     },
   },
   plugins: [],
