@@ -15,7 +15,8 @@
     "gray-matter": "^4.0.3",
     "remark": "^15.0.1",
     "remark-html": "^16.0.1",
-    "date-fns": "^2.30.0"
+    "date-fns": "^2.30.0",
+    "react-icons": "^4.11.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.16",
